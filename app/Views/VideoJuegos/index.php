@@ -1,4 +1,4 @@
-<h1> CAtálogo de Videojuegos </h1>
+<h1> Catálogo de Videojuegos </h1>
 <ul>
     <?php foreach ($videoJuegos as $v):?>
         <li>

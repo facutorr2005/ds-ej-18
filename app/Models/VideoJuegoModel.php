@@ -40,7 +40,7 @@ class VideoJuegoModel {
         $v3 -> Clasificacion = 'E10+';
 
         $v4 = new VideoJuegoModel;
-        $v4 -> Id = 1;
+        $v4 -> Id = 4;
         $v4 -> Nombre = 'GTA San Andreas';
         $v4 -> Desarrollador = 'Rockstar North';
         $v4 -> AnioLanzamiento = 2004;
